@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo petitions to the Generals excellency, one from the county of Hartfordshire, concerning the papers of the five regiaments. And the other from Rutland, concerning tythes. Also a declaration about North-VVales, and the taxes and assessements; an order concerning his Excellencies life guard. Some votes presented to the Generall Councell. The Generalls letter to Mr. Speaker, for the keeping of promises, and ingagements, upon articles approved. Novemb. 1. 1647. These papers are examined, and printed, and published according to the ordinance of both Houses of Parliament. Imprimatur, G. Matt.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95478</idno>
+            <idno type="STC">Wing T3523</idno>
+            <idno type="STC">Thomason E412_18</idno>
+            <idno type="STC">ESTC R203913</idno>
+            <idno type="EEBO-CITATION">99863692</idno>
+            <idno type="PROQUEST">99863692</idno>
+            <idno type="VID">161251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161251)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E412[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo petitions to the Generals excellency, one from the county of Hartfordshire, concerning the papers of the five regiaments. And the other from Rutland, concerning tythes. Also a declaration about North-VVales, and the taxes and assessements; an order concerning his Excellencies life guard. Some votes presented to the Generall Councell. The Generalls letter to Mr. Speaker, for the keeping of promises, and ingagements, upon articles approved. Novemb. 1. 1647. These papers are examined, and printed, and published according to the ordinance of both Houses of Parliament. Imprimatur, G. Matt.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson, in Smithfield, neer the Queenes-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hertfordshire (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Rutland (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161251:1" rendition="simple:additions"/>
+            <p>TVVO PETITIONS TO THE GENERALS EXCELLENCY, ONE From the County of <hi>Hartfordſhire,</hi> con<g ref="char:EOLhyphen"/>cerning the Papers of the five Regiaments.</p>
+            <p>AND <hi>The other from</hi> Rutland, <hi>concerning Tythes.</hi>
+            </p>
+            <p>ALSO A Declaration about North-VVales, and the Taxes and Aſſeſſements; An Or<g ref="char:EOLhyphen"/>der concerning his Excellencies Life-guard. <hi>Some</hi> VOTES <hi>preſented to the Generall Councell.</hi>
+            </p>
+            <p>THE Generalls Letter to Mr. Speaker, for the keeping of promiſes, and ingagements, upon Articles approved.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Novemb. 1. 1647.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>THeſe Papers are examined, and Printed, and publiſhed according to the Ordinance of hoth Houſes of Parliament.</hi>
+                  </p>
+                  <p>Imprimatur,</p>
+                  <closer>
+                     <signed>G. Ma<hi rend="sup">tt</hi>.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon,</hi> in Smithfi<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d, neer the Queenes-head Tavern, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petitions">
+            <pb facs="tcp:161251:2"/>
+            <pb n="1" facs="tcp:161251:2"/>
+            <div type="petition">
+               <head>To His Excellency Sir THOMAS FAIRFAX, <hi>Generall of the Parliament ARMY,</hi> raiſed for Defence OF THE KINGDOME, <hi>The Humble Petition of divers, your Excellencies and the Kingdomes moſt humble Servants of the County of</hi> Hertford.</head>
+               <opener>Sheweth,</opener>
+               <p>THat your Petitioners having received great ſatis<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>action and comfort, from the ſolemn engagement of the A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> at <hi>New<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>arkes,</hi> as alſo from many declarations and narrations ſolemnly ſet forth by your Excellency, and Army under your, command; all tending highly to the ſatisfaction of the King<g ref="char:EOLhyphen"/>dome, and more eſpecially to your Petitioners, and all the friends and wel-w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hers to your Excellency, &amp; Army, And ob<g ref="char:EOLhyphen"/>ſerving that ſome well known to be much diſ-affected to the Armies engagement, Declarations, and Kingdoms peace have upon view of a booke intitled, <hi>The caſe of the Army truly ſtated,</hi> had private meetings, and long conſultations, to the great terror
+<pb n="2" facs="tcp:161251:3"/>of your Petitioners, and many other of the Kingdomes moſt reall ſervants.</p>
+               <p>Wee therefore moſt humbly beſeech your Excel<g ref="char:EOLhyphen"/>lencies care: that the indeavours of all thoſe who up<g ref="char:EOLhyphen"/>on the leaſt occaſions, are ready to take all advantages to raiſe, and foment new diviſions may bee fru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>trated; as alſo that there may be a ſettlement of the Kingdom anſwerable, and according to the ſolemn narrations and Declarations put forth by your Excel<g ref="char:EOLhyphen"/>lency and the Army under your command.</p>
+               <closer>And your Petitioners ſhall humbly pray &amp;c.</closer>
+            </div>
+            <div type="petition">
+               <head>TO His Excellency Sir <hi>Thomas Fairfax</hi> Knight Captaine Generall of the For<g ref="char:EOLhyphen"/>ces raiſed for the defence of the KINGDOME.</head>
+               <head type="sub">
+                  <hi>The Humble Petition of the Inbabitants of the County of</hi> Rutland.</head>
+               <opener>Sheweth,</opener>
+               <p>THat your Petitioners doe with all thankfullneſſe acknow<g ref="char:EOLhyphen"/>ledge the great care &amp; pains taken by your Excellency to re<g ref="char:EOLhyphen"/>ſtore the liber<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>es, franchizes, &amp; immunities of the free born Sub<g ref="char:EOLhyphen"/>jects of this nation: Yet finding our ſelves greatly oppreſſed with the payment of Tithes (our County being a champion County, and the greareſt part there of, conſiſteth of tillage, and ti<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of all profits are there paid in kinde, which in open ſeilds (amounts to the fift part) at the leaſt of mens e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>utes, to the great oppreſſion <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd burden of your ſaid Petitioners, be<g ref="char:EOLhyphen"/>cauſe
+<pb n="3" facs="tcp:161251:3"/>many ſuites in Law have beene commerced, and proſe<g ref="char:EOLhyphen"/>cuted againſt divers of your Petitioners: as alſo upon an Ordi<g ref="char:EOLhyphen"/>nance of Parliament bearing date the ninteenth of <hi>Auguſt</hi> 1647. giving power to the Juſtices of Peace to diſtraine and make ſale of your Petitioners goods, and to give treble dammages, many Judgements being Procured, and like to bee procured, by ſome covetous and contentious Miniſters, and Impropri<g ref="char:EOLhyphen"/>ators reſiding within the ſaid County, if ſome ſpeedy courſe be not taken for reſtraining them, it will prove a yoke too heavy to be borne.</p>
+               <p>
+                  <hi>May it therefore pleaſe your Excellency to take into your ſerious conſideration, this our unſeparable burden and greivance and theſe we humbly beſeech your Excellency to repreſent in our behalfe unto the Parliam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt for ſome courſe to bee taken therein, as to their wiſdomes ſhall ſeeme expe<g ref="char:EOLhyphen"/>dient.</hi>
+               </p>
+               <closer>And your Petitioners ſhall ever honour and pray for your Excellency, &amp;c.</closer>
+            </div>
+            <div type="petition">
+               <head>By the advice of His Excellencies Officers</head>
+               <head type="sub">A DECLARATION to the Knights, Eſquires, and Gentlemen of <hi>North-Wales.</hi>
+               </head>
+               <opener>
+                  <salute>Gentlemen,</salute>
+               </opener>
+               <p>WHereas I am informed, that there hath beene levied great ſummes of monies upon your Countries without any Authority of Parliament, which hath much impoveriſhed the inhabitants, and will totally diſinable them, if the ſaid levies be continued, from paying their ſhare of the ſix thouſand,
+<pb n="4" facs="tcp:161251:4"/>pounds a month granted by Ordinance of Parliament for the ſubſiſtance of the Army, which I ſee your County is willing to ſubmit unto, if they may be eaſed of all other unwarrented taxes. I have therefore thought it fit to let you know: That if you hereafter ſhall refuſe the payment of any monies at<g ref="char:EOLhyphen"/>tempted to be levied without Ordinance of Parliament, I <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all not onely protect you in ſo doing, but alſo call the actors to a ſtrickt account: And ſhall alſo deſire you to informe me by a certificate under your hands of monies ſince the reducements of your Counties to the ſervice of the Parliament have beene levied, and by whoſe warrants, that there may be ſuch a pro<g ref="char:EOLhyphen"/>ceeding againſt them, as in juſtice their offences will deſerve.</p>
+            </div>
+            <div type="petition">
+               <head>
+                  <hi>Papers preſented by His Excellencies Officers, to the Generall Councell,</hi> Octob. 29. 1647.</head>
+               <p n="1">1 Reſolved, that it be repreſented to the next ge<g ref="char:EOLhyphen"/>nerall Councell, That this Commi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce doth concur, it is not like to bee effectuall for the end in the firſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> head expreſſed, to propound the courſe there offered to the Parliament, unleſſe withall there may bee offered ſomething for the ſetting downe of more moderate rates for compoſitions, then in the laſt Propoſitions of both Kingdomes, And that ſome<g ref="char:EOLhyphen"/>thing be prepared by Sir <hi>H. Waller, Col. Overton,</hi> and <hi>Cap. Deane,</hi> to off or to the General Councel, and (if it be there approved) to bee tendred to the Parliament for ſome confideration of the Propoſalls of the Army, in that point of moderating Delinquents Compoſiti<g ref="char:EOLhyphen"/>ons.</p>
+               <pb n="5" facs="tcp:161251:4"/>
+               <p n="2">2. Reſolved that conſideration be had of the bodies of Cathedralls, and the lands of perſons continued in exceptions by particular names, to be offered for fur<g ref="char:EOLhyphen"/>ther ſecurity, and the lands and Eſtates, lying within this kingdome, that belong to perſons within the compaſſe of the <hi>Iriſh</hi> Rebellion.</p>
+            </div>
+            <div type="petition">
+               <head>By His Excellency Sir <hi>THOMAS FAIRFAX</hi>
+               </head>
+               <p>
+                  <hi>WHereas I have received informations of the great burthen that lies upon the County by the ſupernu<g ref="char:EOLhyphen"/>mery Gentlemen of the life guard, who are not upon roule, but rides in the Troope, in expectance of admittance, which gives great offence.</hi> I <hi>doe therefore thinke fit that you give preſent order and directions to all the gentlemen who are ſupernumery, and not in the liſt of any Troope in the Army, that they bee forthwith diſ<g ref="char:EOLhyphen"/>miſſed from quartering with the Troope, untill ſuch time as there can be ſufficiency for their admittance into the lift of the life-Guard.</hi>
+               </p>
+               <closer>
+                  <dateline>Given under my hand <date>the 22. of Octo. 1647.</date>
+                  </dateline>
+                  <signed>T. FAIREFAX.</signed>
+                  <salute>
+                     <hi>To Captaine</hi> Cromwell, <hi>Captaine of the Life-guard, Or Cap. Leiuten.</hi> Ingram.</salute>
+               </closer>
+            </div>
+            <div type="petition">
+               <pb n="6" facs="tcp:161251:5"/>
+               <opener>
+                  <salute>Mr. Speaker,</salute>
+               </opener>
+               <p>HAving lately received a Petition from divers gentlemen (compriſed in the Articles of <hi>Exceter,</hi> and other Articles granted upon ſurrenders, and confirmed, or approved of by the Houſe of Commons) expreſſing their great ſufferings, and the many loſſes they have ſuſtained, by the breach, or not per<g ref="char:EOLhyphen"/>formance of the ſaid Articles: I hold my ſelfe obliged to re<g ref="char:EOLhyphen"/>preſent the condition unto you, deſiring, that you will pleaſe to move the Honourable Houſe, that as they have by their Vote on <hi>Wedneſday</hi> the 6th. of <hi>May</hi> 1647. Declared their approbation of the ſaid Articles, they would beepleaſed to adde thereunto, a command to all Committees, and other perſons whom it may concerne: That they doe take notice of, obſerve, and not refringe the ſame. And that the concurrence of the Houſe of Peeres may bee deſired therein, as alſo in confirma<g ref="char:EOLhyphen"/>tion of all other Articles, which the Houſe of Commons have approved, I alſo deſire you to move the Honourable Houſe of Commons, that ſince by their Order on <hi>Friday</hi> 23 of <hi>Octo.</hi> 1647. They have forbidden the permitting of any perſons who have adhered to the Enemy againſt the Parliament to come a<g ref="char:EOLhyphen"/>gaine into any of their Churches, or to bee admited into any of the Serieantes Innes, Innes of Court, or Innes of Chancery, or to live in any of the ſaid ſocieties: The Houſe would be pleaſed to declare: That the ſame order may not extend to the pre<g ref="char:EOLhyphen"/>judice of any who have had Articles granted upon ſurrender of Gariſons, including that benefit: and particularly, not to the pre<g ref="char:EOLhyphen"/>judice of thoſe, who being comprized within the Articles of <hi>Exceter,</hi> have ſince compounded according to the Articles.</p>
+               <p>Sir, My owne, and the faith and reputation of the Army, and publique juſtice, being ſo much concerned in theſe things, I am engaged and enforced thus to trouble you, For which I humbly crave the pardon of the Houſe, And referring the par<g ref="char:EOLhyphen"/>ticulars to their conſideration, I remain.</p>
+               <closer>
+                  <signed>
+                     <hi>Your Hamble Servant,</hi> T. FAIRFAx.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
